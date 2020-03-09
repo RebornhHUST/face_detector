@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4c6a56a4-732b-46e4-b83b-08500f86a234" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YmkQ6kjUrLZGBrPpOUs0Iq3pbp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.face_detection_video (1)">
+    <configuration name="55" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_identification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/55.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_detection_video (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_identification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_detection_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_detection_video" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_identification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\PycharmProjects\face_identification\face_detection_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="face_train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_identification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_identification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.face_detection_video (1)" />
+        <item itemvalue="Python.face_train" />
+        <item itemvalue="Python.55" />
+        <item itemvalue="Python.face_detection_video" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c6a56a4-732b-46e4-b83b-08500f86a234" name="Default Changelist" comment="" />
+      <created>1583555137973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583555137973</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="490" y="197" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583679437643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="490" y="197" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1583679437643" />
+    <state x="436" y="100" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583682984400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="100" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583682984400" />
+    <state width="1509" height="197" key="GridCell.Tab.0.bottom" timestamp="1583729908601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583729908601" />
+    <state width="1509" height="197" key="GridCell.Tab.0.center" timestamp="1583729908601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583729908601" />
+    <state width="1509" height="197" key="GridCell.Tab.0.left" timestamp="1583729908601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583729908601" />
+    <state width="1509" height="197" key="GridCell.Tab.0.right" timestamp="1583729908601">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583729908601" />
+    <state width="1509" height="246" key="GridCell.Tab.1.bottom" timestamp="1583687017995">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="246" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583687017995" />
+    <state width="1509" height="246" key="GridCell.Tab.1.center" timestamp="1583687017994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="246" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1583687017994" />
+    <state width="1509" height="246" key="GridCell.Tab.1.left" timestamp="1583687017994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="246" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1583687017994" />
+    <state width="1509" height="246" key="GridCell.Tab.1.right" timestamp="1583687017994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="246" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583687017994" />
+    <state x="401" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1583726781756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="401" y="195" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583726781756" />
+    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup" timestamp="1583684395402">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="0" width="840" height="822" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583684395402" />
+  </component>
+</project>
