@@ -1,5 +1,4 @@
 # sử dụng video
-import numpy as np
 import cv2
 import pickle
 
@@ -16,7 +15,7 @@ while True:
     ret, frame = cap.read()
     name = str(i + 1) + '.png'
     gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-    faces = face.detectMultiScale(gray, scaleFactor=1.1, minNeighbors=5)
+    faces = face.detectMultiScale(gray, scaleFactor=1.2, minNeighbors=5)
     for (x, y, w, h) in faces:
         cv2.rectangle(frame, (x, y), (x + w, y + h), (255, 0, 0), 2, )
         roi_gray = gray[y:y + h, x:x + w]
