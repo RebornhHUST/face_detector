@@ -2,15 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c6a56a4-732b-46e4-b83b-08500f86a234" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/take_your_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/face_detection_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Bich Phuong/0007336369_350.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Bich Phuong/ca-si-bich-phuong-lay-chong-085141.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Bich Phuong/hinh-anh-hinh-nen-ca-si-bich-phuong-dep-de-thuong-nhat4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Bich Phuong/k--15--1484635911-width660height990.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Bich Phuong/tải xuống.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Bich Phuong/unnamed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Dao Minh Duc/18673045_255557134924727_8184668278642528981_o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Dao Minh Duc/18739819_622536551274236_905313891545614583_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Dao Minh Duc/18766839_219573208548354_2983201534999821992_o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Dao Minh Duc/20507213_1866854893642114_4091964935003565170_o.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Dao Minh Duc/20953957_2016796781876395_6725376461685622700_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Nguyen Quy Phuc/88347129_2920605327999578_3849491527122288640_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Nguyen Quy Phuc/88360887_212454823470438_6730258746909392896_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Nguyen Quy Phuc/89197352_626558524798699_2451646110846943232_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Nguyen Quy Phuc/89289389_2781232111965927_7315901142859251712_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Nguyen Quy Phuc/89445048_755789301617993_3847522684049031168_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Nguyen Quy Phuc/89481694_522304352053136_8831690282387898368_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Nguyen Quy Phuc/89512000_600612780795520_3681422185450176512_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Nguyen Quy Phuc/89721966_658722218220840_1219899007032098816_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Nguyen Quy Phuc/89749036_752267831967064_6759164271948464128_n.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/55.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/face_detection_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/face_detection_video.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/Nguyen Quy Phuc/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Nguyen Quy Phuc/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/Nguyen Quy Phuc/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Nguyen Quy Phuc/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/Nguyen Quy Phuc/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Nguyen Quy Phuc/3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/Nguyen Quy Phuc/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Nguyen Quy Phuc/4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/image/Nguyen Quy Phuc/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/Nguyen Quy Phuc/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/label.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/label.pickle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/trainner.yml" beforeDir="false" afterPath="$PROJECT_DIR$/trainner.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +46,23 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YmkQ6kjUrLZGBrPpOUs0Iq3pbp" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../twitter" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\face_identification" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.face_detection_video (1)">
     <configuration name="55" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -60,6 +86,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="face_detection_image" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="face_identification" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_detection_image.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="face_detection_video (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="face_identification" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -73,27 +120,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/face_detection_video.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="face_detection_video" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="face_identification" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Admin\PycharmProjects\face_identification\face_detection_video.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,10 +173,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.face_detection_video (1)" />
+        <item itemvalue="Python.face_detection_image" />
         <item itemvalue="Python.face_train" />
         <item itemvalue="Python.take_your_image" />
         <item itemvalue="Python.55" />
-        <item itemvalue="Python.face_detection_video" />
       </list>
     </recent_temporary>
   </component>
@@ -167,6 +193,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="490" y="197" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583679437643">
       <screen x="0" y="0" width="1536" height="824" />
@@ -176,22 +205,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="436" y="100" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1583682984400" />
-    <state width="1509" height="197" key="GridCell.Tab.0.bottom" timestamp="1583759598839">
+    <state x="499" y="110" key="FileChooserDialogImpl" timestamp="1583827181259">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583759598839" />
-    <state width="1509" height="197" key="GridCell.Tab.0.center" timestamp="1583759598839">
+    <state x="499" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583827181259" />
+    <state width="1509" height="197" key="GridCell.Tab.0.bottom" timestamp="1583827156657">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583759598839" />
-    <state width="1509" height="197" key="GridCell.Tab.0.left" timestamp="1583759598839">
+    <state width="1509" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583827156656" />
+    <state width="1509" height="197" key="GridCell.Tab.0.center" timestamp="1583827156656">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583759598839" />
-    <state width="1509" height="197" key="GridCell.Tab.0.right" timestamp="1583759598839">
+    <state width="1509" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583827156656" />
+    <state width="1509" height="197" key="GridCell.Tab.0.left" timestamp="1583827156656">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1509" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583759598839" />
+    <state width="1509" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583827156656" />
+    <state width="1509" height="197" key="GridCell.Tab.0.right" timestamp="1583827156656">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1509" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583827156656" />
     <state width="1509" height="246" key="GridCell.Tab.1.bottom" timestamp="1583687017995">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -208,10 +241,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1509" height="246" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1583687017994" />
-    <state x="401" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1583756957907">
+    <state x="401" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1583827124904">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="401" y="195" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583756957907" />
+    <state x="401" y="195" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583827124904" />
     <state x="347" y="0" width="840" height="822" key="search.everywhere.popup" timestamp="1583684395402">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
